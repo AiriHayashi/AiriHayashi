@@ -1,9 +1,9 @@
 <p align="center">
  <img width="100px" src="/logo.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">あなたの README に自動生成された GitHub の統計情報を載せましょう！</p>
+ <h2 align="center">Airi Hayashi</h2>
+ <p align="center">This picture draw by Adobe Firefly.</p>
 </p>
-# self-introduction
+
 
 ## profile
 
