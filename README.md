@@ -12,7 +12,7 @@
 
 
 ## skill
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,C,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nextjs,python,c,md&theme=dark)](https://skillicons.dev)
 
 ## 📉Status
 <p align="left"> 
